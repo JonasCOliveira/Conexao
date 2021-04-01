@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 // Default page to start the game
+// Check Player's name
 
 public class Play : MonoBehaviour
 {
