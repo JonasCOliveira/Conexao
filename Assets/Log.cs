@@ -7,6 +7,7 @@ public class Log : MonoBehaviour
 {
 
     // Adicionados os campos: Jogador, Fase, Fitness, Score, DiamantesColetados, DiamantesVistos, VidasColetadas, VidasRestantes, qtdAguia, qtdEspinho, qtdGamba, qtdSapo
+    // Adicionada conexão com o banco 
 
     public GameHandler gh = new GameHandler();
 
