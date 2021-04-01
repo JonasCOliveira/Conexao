@@ -6,6 +6,8 @@ using UnityEngine.Networking;
 public class Log : MonoBehaviour
 {
 
+    // Adicionados os campos: Jogador, Fase, Fitness, Score, DiamantesColetados, DiamantesVistos, VidasColetadas, VidasRestantes, qtdAguia, qtdEspinho, qtdGamba, qtdSapo
+
     public GameHandler gh = new GameHandler();
 
     private void Awake() {
