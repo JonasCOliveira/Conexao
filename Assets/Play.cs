@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+// Default page to start the game
+
 public class Play : MonoBehaviour
 {
     public Button playButton;
